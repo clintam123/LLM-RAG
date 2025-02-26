@@ -8,7 +8,7 @@ This is a project about Question Answering for PDF files with LLMs using RAG.
 
 ## Pipeline
 
-![Pipeline](images/pipeline.png)https://github.com/clintam123/LLM-RAG
+![Pipeline](images/pipeline.png)
 
 ## Interface
 
